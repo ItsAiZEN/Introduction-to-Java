@@ -1,5 +1,3 @@
-package Maman12;
-
 /**
  * Represents two-dimensional points.
  *

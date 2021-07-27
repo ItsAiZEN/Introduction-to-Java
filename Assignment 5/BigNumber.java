@@ -1,5 +1,3 @@
-package Maman15;
-
 /**
  * This class represents a large number using linked lists.
  *

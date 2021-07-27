@@ -1,5 +1,3 @@
-package Maman15;
-
 public class IntNode {
     private int _value;
     private IntNode _next;

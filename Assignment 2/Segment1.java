@@ -1,5 +1,3 @@
-package Maman12;
-
 /**
  * Segment1 represents a line using two Points.
  *

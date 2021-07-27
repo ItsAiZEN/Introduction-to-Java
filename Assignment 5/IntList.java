@@ -1,5 +1,3 @@
-package Maman15;
-
 public class IntList {
 
     private IntNode _head;

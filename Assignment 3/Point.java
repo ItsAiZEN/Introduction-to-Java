@@ -1,8 +1,3 @@
-package Maman13;//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 public class Point {
     private double _x;
     private double _y;

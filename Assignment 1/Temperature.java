@@ -1,4 +1,3 @@
-package Maman11;
 /* Written by Nir Eizenman on 09/11/2020, Temperature Class
  * The Temperature class will receive an input from the user of a temperature unit type and
  * a temperature itself and will convert the unit to celsius, fahrenheit and kelvin

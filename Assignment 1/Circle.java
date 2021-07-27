@@ -1,4 +1,3 @@
-package Maman11;
 /* Written by Nir Eizenman on 09/11/2020, Circle Class
  * The Circle class will receive an input from the user of two points in order to draw a rectangle
  * the program will calculate the radius of the inner and outer circle that are enclosed inside or

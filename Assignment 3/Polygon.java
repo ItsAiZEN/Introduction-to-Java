@@ -1,5 +1,3 @@
-package Maman13;
-
 /**
  * Represents a polygon using a Maman13.Point objects array as the vertices
  *

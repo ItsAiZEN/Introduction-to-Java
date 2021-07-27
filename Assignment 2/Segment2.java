@@ -1,5 +1,3 @@
-package Maman12;
-
 /**
  * Segment2 represents a line (parallel to the x-axis) using a center point and length.
  *
