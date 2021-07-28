@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep4 {
+public class Session5 {
 
     public static void main(String[] args) {
         int[][] drm = {{2, 0, 1, 2, 3}, {2, 3, 5, 5, 4}, {8, -1, 6, 8, 7}, {3, 4, 7, 2, 4}, {2, 4, 3, 1, 2}};

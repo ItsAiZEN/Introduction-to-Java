@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep7 {
+public class Session8 {
     public static void main(String[] args) {
         int[] a = {4, 2, 3, 1};
         System.out.println(isSum(a, 0));

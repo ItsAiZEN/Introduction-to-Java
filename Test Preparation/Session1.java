@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep {
+public class Session1 {
 
 
     public static int cntTrueReg(boolean[][] mat) {

@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep6 {
+public class Session7 {
 
     public static void main(String[] args) {
 //        int[] a = {2, 5, 10, 20, 50};

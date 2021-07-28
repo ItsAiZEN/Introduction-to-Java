@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep10 {
+public class Session11 {
 
     public static void main(String[] args) {
         int[] arr = {-8, -7, -5, -3, -2, 5, 8};

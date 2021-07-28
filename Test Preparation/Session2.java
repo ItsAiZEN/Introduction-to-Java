@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep1 {
+public class Session2{
     public static void main(String[] args) {
 //        System.out.println(oneFiveSeven(9));
         int[] a = {10, 16, 18, 40};

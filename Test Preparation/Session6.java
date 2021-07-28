@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep5 {
+public class Session6 {
 
 
     public static void main(String[] args) {

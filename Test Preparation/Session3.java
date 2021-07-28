@@ -1,6 +1,6 @@
 package Tests_questions;
 
-public class TestPrep2 {
+public class Session3 {
 
     public static void main(String[] args) {
 //        System.out.println(ways(0,0));
